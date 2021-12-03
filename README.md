@@ -1,7 +1,7 @@
-### Hi there 👋
-
+###Heejoo Jeong
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhjyk0310)](https://hits.seeyoufarm.com)
 <!--
-**hjyk0310/hjyk0310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shinplest/shinplest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=hjyk0310&show_icons=true&hide_border=true)](https://github.com/hjyk0310)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjyk0310&layout=compact)](https://github.com/hjyk0310)
+
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
