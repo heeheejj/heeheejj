@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=heeheejj&show_icons=true&hide_border=true&count_private=true&hide=stars,issues&include_all_commits=true)](https://github.com/heeheejj)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heeheejj&layout=compact&count_private=true&include_all_commits=true)](https://github.com/heeheejj)
+[![github stats](https://github-readme-stats.vercel.app/api?username=heeheejj&show_icons=true&theme=vue&hide_border=true&count_private=true&hide=stars,issues&include_all_commits=true)](https://github.com/heeheejj)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heeheejj&layout=compact&count_private=true&include_all_commits=true)](https://github.com/heeheejj) -->
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a>
