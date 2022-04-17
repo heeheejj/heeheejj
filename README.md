@@ -47,8 +47,8 @@
 **<p align="center">Contact</p>**
 
 <p align="center">
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/ Tech Blog-11B48A?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@andkjyk"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/heeheej._.v/"/></a>
+  <a href="https://velog.io/@andkjyk" target="_blank"><img src="https://img.shields.io/badge/ Tech Blog-11B48A?style=flat-square&logo=Velog&logoColor=white"/></a>
+  <a href="https://www.instagram.com/heeheej._.v/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
 
 <p align="right"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheeheejj&count_bg=%23E7B0DE&title_bg=%23D5D5D5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></p>
