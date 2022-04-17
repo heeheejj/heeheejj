@@ -51,7 +51,7 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/heeheej._.v/"/></a>
 </p>
 
-<p align="right"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23E7B0DE&title_bg=%23B6B6B6&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></p>
+<p align="right"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheeheejj&count_bg=%23E7B0DE&title_bg=%23D5D5D5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></p>
 
 
 <!-- [![github stats](https://github-readme-stats.vercel.app/api?username=heeheejj&show_icons=true&theme=vue&hide_border=true&count_private=true&hide=stars,issues&include_all_commits=true)](https://github.com/heeheejj) -->
