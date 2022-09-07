@@ -1,4 +1,4 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=200&maxWidth=100%&color=0:E55D87, 100:5FC3E4&section=header&text=heejoo Jeong&fontColor=ffffff&fontSize=50&fontAlign=77&fontAlignY=35" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=200&maxWidth=100%&color=0:E55D87,%20100:5FC3E4&section=header&text=heejoo%20Jeong&fontColor=ffffff&fontSize=50&fontAlign=77&fontAlignY=35" /></p>
 
 
 <!-- **<p align="center">Hi, There! </br> I'm Heejoo Jeong. </br> student developer</p>** -->
