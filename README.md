@@ -28,12 +28,13 @@
 </p>
 
 
-<!-- **<p align="center">I'm currently learning...</p>**
+<!-- **<p align="center">I'm currently learning...</p>**-->
 
 <p align="center">
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Vue-35495E?style=flat-square&logo=vuedotjs&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
-</p> -->
+</p>
 
 
 **<p align="center">Tools</p>**
