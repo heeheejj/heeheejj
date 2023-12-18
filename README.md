@@ -51,7 +51,7 @@
   <a href="" target="_blank"><img src="http://is.am/52j8"/></a>
 </p>
 
-
+<!--
 **<p align="center">Contact</p>**
 
 <p align="center">
@@ -60,7 +60,7 @@
 </p>
 
 <p align="right"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheeheejj&count_bg=%23E7B0DE&title_bg=%23D5D5D5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></p>
-
+-->
 
 <!-- [![github stats](https://github-readme-stats.vercel.app/api?username=heeheejj&show_icons=true&theme=vue&hide_border=true&count_private=true&hide=stars,issues&include_all_commits=true)](https://github.com/heeheejj) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heeheejj&layout=compact&count_private=true&include_all_commits=true)](https://github.com/heeheejj) -->
